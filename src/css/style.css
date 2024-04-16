@@ -1,0 +1,17 @@
+/* :root{
+    
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    color: red;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
